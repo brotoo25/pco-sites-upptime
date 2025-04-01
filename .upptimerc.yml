@@ -11,6 +11,8 @@ sites:
     url: https://cotv.org.br/
   - name: Universidade Marxista
     url: https://universidademarxista.pco.org.br
+  - name: Test
+    url: https://www.brasil247.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
