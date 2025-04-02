@@ -4,19 +4,19 @@
     "url": "https://causaoperaria.org.br/",
     "icon": "https://icons.duckduckgo.com/ip3/causaoperaria.org.br.ico",
     "slug": "causa-operaria",
-    "status": "up",
-    "uptime": "88.85%",
-    "uptimeDay": "88.85%",
-    "uptimeWeek": "88.85%",
-    "uptimeMonth": "88.85%",
-    "uptimeYear": "88.85%",
+    "status": "down",
+    "uptime": "89.30%",
+    "uptimeDay": "89.30%",
+    "uptimeWeek": "89.30%",
+    "uptimeMonth": "89.30%",
+    "uptimeYear": "89.30%",
     "time": 3040,
     "timeDay": 3040,
     "timeWeek": 3040,
     "timeMonth": 3040,
     "timeYear": 3040,
     "dailyMinutesDown": {
-      "2025-04-02": 15,
+      "2025-04-02": 16,
       "2025-04-01": 116
     }
   },
@@ -25,18 +25,19 @@
     "url": "https://pco.org.br/",
     "icon": "https://icons.duckduckgo.com/ip3/pco.org.br.ico",
     "slug": "pco-partido-da-causa-operaria",
-    "status": "up",
-    "uptime": "90.18%",
-    "uptimeDay": "90.18%",
-    "uptimeWeek": "90.18%",
-    "uptimeMonth": "90.18%",
-    "uptimeYear": "90.18%",
+    "status": "down",
+    "uptime": "90.57%",
+    "uptimeDay": "90.57%",
+    "uptimeWeek": "90.57%",
+    "uptimeMonth": "90.57%",
+    "uptimeYear": "90.57%",
     "time": 984,
     "timeDay": 984,
     "timeWeek": 984,
     "timeMonth": 984,
     "timeYear": 984,
     "dailyMinutesDown": {
+      "2025-04-02": 1,
       "2025-04-01": 115
     }
   },
@@ -45,18 +46,19 @@
     "url": "https://cotv.org.br/",
     "icon": "https://icons.duckduckgo.com/ip3/cotv.org.br.ico",
     "slug": "cotv-causa-operaria-tv",
-    "status": "up",
-    "uptime": "90.22%",
-    "uptimeDay": "90.22%",
-    "uptimeWeek": "90.22%",
-    "uptimeMonth": "90.22%",
-    "uptimeYear": "90.22%",
+    "status": "down",
+    "uptime": "90.61%",
+    "uptimeDay": "90.61%",
+    "uptimeWeek": "90.61%",
+    "uptimeMonth": "90.61%",
+    "uptimeYear": "90.61%",
     "time": 400,
     "timeDay": 400,
     "timeWeek": 400,
     "timeMonth": 400,
     "timeYear": 400,
     "dailyMinutesDown": {
+      "2025-04-02": 1,
       "2025-04-01": 115
     }
   },
@@ -77,7 +79,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-02": 203,
+      "2025-04-02": 259,
       "2025-04-01": 969
     }
   }
